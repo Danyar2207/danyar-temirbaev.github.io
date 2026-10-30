@@ -2,7 +2,7 @@
 
 A small web app for tracking daily habits. Add a habit, mark it done for today, and see how many days in a row you have kept it.
 
-**Live demo:** https://danyar2207.github.io/project-one/ (after GitHub Pages is enabled)
+**Live demo:**  https://danyar2207.github.io/danyar-temirbaev.github.io/ (after GitHub Pages is enabled)
 
 ## Features
 
